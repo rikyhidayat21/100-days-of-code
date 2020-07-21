@@ -7,10 +7,12 @@ The log of my #100DaysOfCode challenge. Started on [July 20, Monday, 2020].
 
 ### R1D1 20 July 2020
 **Today's:** Started from codecademy, learn javascript lesson part modules at codecademy.
+
 **Thought:** modules are reusable pieces of code that can be exported a program and imported a program to another program
 
 ### R1D2 21 July 2020
 **Today's:** I just finished lesson about intermediate modules javascript at codecademy.
+
 **Thought:** ES6 make an easier syntax for export and import in javascript. 
     1. export default: for export javasript object, function, and primitives data types
     2. export: use for export data in variable. example: export let myWork
