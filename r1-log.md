@@ -14,8 +14,11 @@ The log of my #100DaysOfCode challenge. Started on [July 20, Monday, 2020].
 **Today's:** I just finished lesson about intermediate modules javascript at codecademy.
 
 **Thought:** ES6 make an easier syntax for export and import in javascript. 
-    1. export default: for export javasript object, function, and primitives data types
-    2. export: use for export data in variable. example: export let myWork
-    3. as: named export can be alliased using keyword as. example: export myWork as myW
+    1. export default: for export javasript object, function, and primitives data types.
+    2. export: use for export data in variable. example: export let myWork.
+    3. as: named export can be alliased using keyword as. example: export myWork as myW.
     4. import: is a keyword for import any object, function or data type.
     
+### R1D3 22 July 2020
+**Today's**: I just finished lesson about promise at codecademy
+**Thought**: Promises made me confuse. But i'll keep learning, and tommorow i will learn to next lesson is async - await.
