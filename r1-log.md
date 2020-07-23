@@ -22,3 +22,7 @@ The log of my #100DaysOfCode challenge. Started on [July 20, Monday, 2020].
 ### R1D3 22 July 2020
 **Today's**: I just finished lesson about promise at codecademy
 **Thought**: Promises made me confuse. But i'll keep learning, and tommorow i will learn to next lesson is async - await.
+
+### R1D4 23 July 2020
+**Today's**: Get introducton to async await in javascript.
+**Thought**: Can't wait to learn next part of this lesson at codecademy, but i have to rest, my body is not in good condition. keep healty!
