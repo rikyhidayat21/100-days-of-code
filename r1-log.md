@@ -34,4 +34,4 @@ The log of my #100DaysOfCode challenge. Started on [July 20, Monday, 2020].
 
 **Thought**: await operator return resolvedValue of promise, the variable that we made was assigned the resolved value to the promise.
 
-**There is the link**: [Tweet](https://twitter.com/rikymehmet/status/1286511700707930113)
+**There is the link**: [R1D5 progress](https://twitter.com/rikymehmet/status/1286511700707930113)
