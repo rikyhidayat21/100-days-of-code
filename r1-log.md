@@ -28,3 +28,10 @@ The log of my #100DaysOfCode challenge. Started on [July 20, Monday, 2020].
 **Today's**: Get introducton to async await in javascript.
 
 **Thought**: Can't wait to learn next part of this lesson at codecademy, but i have to rest, my body is not in good condition. keep healty!
+
+### R1D5 24 July 2020
+**Today's**: writing async await function at codecademy javascript lesson.
+
+**Thought**: await operator return resolvedValue of promise, the variable that we made was assigned the resolved value to the promise.
+
+**There is the link**: 
