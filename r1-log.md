@@ -35,3 +35,10 @@ The log of my #100DaysOfCode challenge. Started on [July 20, Monday, 2020].
 **Thought**: await operator return resolvedValue of promise, the variable that we made was assigned the resolved value to the promise.
 
 **There is the link**: [R1D5 progress](https://twitter.com/rikymehmet/status/1286511700707930113)
+
+### R1D6 25 July 2020
+**Today's**: handling dependent promises.
+
+**Thought**: learn that how async-await more readable than native syntax promises, in my opinion:D.
+
+**There is the link**: [R1D6 progress](https://twitter.com/rikymehmet/status/1286919858169339904)
