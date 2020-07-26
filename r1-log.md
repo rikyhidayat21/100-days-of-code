@@ -42,3 +42,10 @@ The log of my #100DaysOfCode challenge. Started on [July 20, Monday, 2020].
 **Thought**: learn that how async-await more readable than native syntax promises, in my opinion:D.
 
 **There is the link**: [R1D6 progress](https://twitter.com/rikymehmet/status/1286919858169339904)
+
+### R1D7 26 July 2020
+**Today's**: introduction to XMLHttpRequest
+
+**Thought**: learn that how to get response using XMLHttpRequest.
+
+**There is the link**: [R1D7 progress](https://twitter.com/rikymehmet/status/1287302884455931904)
