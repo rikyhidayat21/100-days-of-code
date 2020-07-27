@@ -49,3 +49,11 @@ The log of my #100DaysOfCode challenge. Started on [July 20, Monday, 2020].
 **Thought**: learn that how to get response using XMLHttpRequest.
 
 **There is the link**: [R1D7 progress](https://twitter.com/rikymehmet/status/1287302884455931904)
+
+### R1D8 27 July 2020
+**Today's**: XHR Get response
+
+**Thought**: learn that how to get response using XMLHttpRequest.
+
+**There is the link**: [R1D8 progress](https://twitter.com/rikymehmet/status/1287594996875628549)
+
