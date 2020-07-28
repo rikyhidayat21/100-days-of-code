@@ -57,3 +57,10 @@ The log of my #100DaysOfCode challenge. Started on [July 20, Monday, 2020].
 
 **There is the link**: [R1D8 progress](https://twitter.com/rikymehmet/status/1287594996875628549)
 
+### R1D9 28 July 2020
+**Today's**: XHR POST response
+
+**Thought**: learn that how to pody response using XMLHttpRequest.
+
+**There is the link**: [R1D9 progress](https://twitter.com/rikymehmet/status/1288079604180062208)
+
