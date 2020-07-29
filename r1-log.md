@@ -64,3 +64,10 @@ The log of my #100DaysOfCode challenge. Started on [July 20, Monday, 2020].
 
 **There is the link**: [R1D9 progress](https://twitter.com/rikymehmet/status/1288079604180062208)
 
+### R1D10 29 July 2020
+**Today's**: fetch get and post
+
+**Thought**: learn that how to use fetch get and post
+
+**There is the link**: [R1D10 progress](https://twitter.com/rikymehmet/status/1288267874214137856)
+
