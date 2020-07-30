@@ -71,3 +71,9 @@ The log of my #100DaysOfCode challenge. Started on [July 20, Monday, 2020].
 
 **There is the link**: [R1D10 progress](https://twitter.com/rikymehmet/status/1288267874214137856)
 
+### R1D10 30 July 2020
+**Today's**: async await fetch
+
+**Thought**: learn fetch using async await get/post. And today I just finished my lesson at codecademy, big thanks for them!
+
+**There is the link**: [R1D11 progress](https://twitter.com/rikymehmet/status/1288626465668399104)
