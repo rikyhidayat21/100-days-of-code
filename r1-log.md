@@ -71,9 +71,16 @@ The log of my #100DaysOfCode challenge. Started on [July 20, Monday, 2020].
 
 **There is the link**: [R1D10 progress](https://twitter.com/rikymehmet/status/1288267874214137856)
 
-### R1D10 30 July 2020
+### R1D11 30 July 2020
 **Today's**: async await fetch
 
 **Thought**: learn fetch using async await get/post. And today I just finished my lesson at codecademy, big thanks for them!
 
 **There is the link**: [R1D11 progress](https://twitter.com/rikymehmet/status/1288626465668399104)
+
+### R1D12 1 August 2020
+**Today's**: back to basic from eloquent js
+
+**Thought**: start learning chapter 4 data structures: object and array. And, today i just installed linux.
+
+**There is the link**: [R1D12 progress](https://twitter.com/rikymehmet/status/1289525211008647169)
