@@ -78,9 +78,23 @@ The log of my #100DaysOfCode challenge. Started on [July 20, Monday, 2020].
 
 **There is the link**: [R1D11 progress](https://twitter.com/rikymehmet/status/1288626465668399104)
 
-### R1D12 1 August 2020
+### R1D12 31 July 2020
 **Today's**: back to basic from eloquent js
 
-**Thought**: start learning chapter 4 data structures: object and array. And, today i just installed linux.
+**Thought**: start learning chapter 4 data structures: object and array. Mutability.
 
 **There is the link**: [R1D12 progress](https://twitter.com/rikymehmet/status/1289525211008647169)
+
+### R1D13 1 August 2020
+**Today's**: back to basic from eloquent js
+
+**Thought**: start learning chapter 4 data structures: object and array. Today I just installed Linux on my laptop.
+
+**There is the link**: [R1D13 progress](https://twitter.com/rikymehmet/status/1289525211008647169)
+
+### R1D14 2 August 2020
+**Today's**: back to basic from eloquent js
+
+**Thought**: start learning chapter 4 data structures: object and array. still learning about lycanthropes log because I still confused
+
+**There is the link**: [R1D14 progress](https://twitter.com/rikymehmet/status/1289891972975476738)
