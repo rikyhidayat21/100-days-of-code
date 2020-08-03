@@ -98,3 +98,10 @@ The log of my #100DaysOfCode challenge. Started on [July 20, Monday, 2020].
 **Thought**: start learning chapter 4 data structures: object and array. still learning about lycanthropes log because I still confused
 
 **There is the link**: [R1D14 progress](https://twitter.com/rikymehmet/status/1289891972975476738)
+
+### R1D15 3 August 2020
+**Today's**: back to basic from eloquent js
+
+**Thought**: learn computing correlation
+
+**There is the link**: [R1D15 progress](https://twitter.com/rikymehmet/status/1290295799180431361)
