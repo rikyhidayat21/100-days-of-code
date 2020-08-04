@@ -105,3 +105,10 @@ The log of my #100DaysOfCode challenge. Started on [July 20, Monday, 2020].
 **Thought**: learn computing correlation
 
 **There is the link**: [R1D15 progress](https://twitter.com/rikymehmet/status/1290295799180431361)
+
+### R1D16 4 August 2020
+**Today's**: back to basic, exercise.
+
+**Thought**: today i just learn else if statement
+
+**There is the link**: [R1D16 progress](https://twitter.com/rikymehmet/status/1290618306202701825)
