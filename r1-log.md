@@ -112,3 +112,10 @@ The log of my #100DaysOfCode challenge. Started on [July 20, Monday, 2020].
 **Thought**: today i just learn else if statement
 
 **There is the link**: [R1D16 progress](https://twitter.com/rikymehmet/status/1290618306202701825)
+
+### R1D17 5 August 2020
+**Today's**: back to basic, exercise.
+
+**Thought**: today i just learn looping
+
+**There is the link**: [R1D17 progress](https://twitter.com/rikymehmet/status/1290963001965547521)
