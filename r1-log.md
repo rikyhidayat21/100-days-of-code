@@ -119,3 +119,17 @@ The log of my #100DaysOfCode challenge. Started on [July 20, Monday, 2020].
 **Thought**: today i just learn looping
 
 **There is the link**: [R1D17 progress](https://twitter.com/rikymehmet/status/1290963001965547521)
+
+## R1D18-23 5 August - 11 August 2020
+**Today's**: back to basic, exercise.
+
+**Thought**: finish some task with conditional and looping.
+
+**There is the link**: [R1D18-23 progress](https://twitter.com/rikymehmet/status/1293196400633602049)
+
+## R1D24 12 August 2020
+**Today's**: back to basic, exercise.
+
+**Thought**: practice looping two dimension array.
+
+**There is the link**: [R1D24 progress](https://twitter.com/rikymehmet/status/1293543792335704066)
