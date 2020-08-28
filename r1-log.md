@@ -133,3 +133,85 @@ The log of my #100DaysOfCode challenge. Started on [July 20, Monday, 2020].
 **Thought**: practice looping two dimension array.
 
 **There is the link**: [R1D24 progress](https://twitter.com/rikymehmet/status/1293543792335704066)
+
+## R1D25 13 August 2020
+**Today's**: back to basic, exercise.
+
+**Thought**: practice looping two dimension array.
+
+## R1D26 14 August 2020
+**Today's**: back to basic, exercise.
+
+**Thought**: practice looping two dimension array.
+
+## R1D27 15 August 2020
+**Today's**: back to basic, exercise.
+
+**Thought**: practice looping two dimension array.
+
+## R1D28 16 August 2020
+**Today's**: back to basic, exercise.
+
+**Thought**: practice looping two dimension array.
+
+## R1D29 17 August 2020
+**Today's**: back to basic, exercise.
+
+**Thought**: practice looping two dimension array.
+
+## R1D30 18 August 2020
+**Today's**: back to basic, exercise.
+
+**Thought**: practice looping two dimension array.
+
+## R1D31 19 August 2020
+**Today's**: back to basic, exercise.
+
+**Thought**: practice looping array of array, array of object.
+
+## R1D32 20 August 2020
+**Today's**: back to basic, exercise.
+
+**Thought**: practice looping array of array, array of object.
+
+## R1D33 21 August 2020
+**Today's**: back to basic, exercise.
+
+**Thought**: practice looping array of array, array of object.
+
+## R1D34 22 August 2020
+**Today's**: back to basic, exercise.
+
+**Thought**: practice looping array of array, array of object.
+
+## R1D35 23 August 2020
+**Today's**: back to basic, exercise.
+
+**Thought**: practice looping array of array, array of object.
+
+## R1D36 24 August 2020
+**Today's**: back to basic, exercise.
+
+**Thought**: practice looping ojbect of object.
+
+## R1D37 25 August 2020
+**Today's**: back to basic, exercise.
+
+**Thought**: practice looping array of array, array of object.
+
+## R1D38 26 August 2020
+**Today's**: back to basic, exercise.
+
+**Thought**: practice looping array of array, array of object.
+
+## R1D39 27 August 2020
+**Today's**: back to basic, exercise.
+
+**Thought**: practice looping array of array, array of object.
+
+## R1D40 28 August 2020
+**Today's**: back to basic, exercise.
+
+**Thought**: make a simple one page using html css javascript.
+
+**There is the link**: [R1D40 progress](https://rikyhidayat21.github.io/final-project-phase0/)
